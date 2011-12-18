@@ -1,0 +1,1 @@
+Hello! I'm really just fiddling around with Rails, following Hartl's Rails Tutorials.  
